@@ -1,0 +1,28 @@
+.image{
+	height: 300px;
+	border-radius: 50px;
+	padding: 20px;
+	opacity: .75;
+}
+.image:hover{
+	opacity: 1;
+}
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 100px;
+	font-family: Magazine;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12x;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+}
+.self{
+	border-radius: 50%;
+	height: 50px;
+}
